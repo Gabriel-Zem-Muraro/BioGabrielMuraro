@@ -38,5 +38,5 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 ---
 
 ## 📫 Onde me encontrar
-- GitHub: [github.com/GabrielMuraro](https://github.com/GabrielMuraro)  
+- GitHub: [github.com/GabrielMuraro](https://github.com/Gabriel-Zem-Muraro)  
 - LinkedIn: [linkedin.com/gabriel-zem-muraro](www.linkedin.com/in/gabriel-zem-muraro-09432a270)
