@@ -7,6 +7,15 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Zem-Muraro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Zem-Muraro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="375"/>
+</div>
+
+---
+
 ## 🚀 Skills
 
 ### 🖥️ Back-end
