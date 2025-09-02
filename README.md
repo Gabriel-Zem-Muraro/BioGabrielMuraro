@@ -17,9 +17,9 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 ### 🎨 Front-end
 - **React.js**  
 - **Nest.js**  
-- **HTML5*
-- **CSS3**,
-- **JavaScript **
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ### ☁️ Cloud
 - **Azure**  
