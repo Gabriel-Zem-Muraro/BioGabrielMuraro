@@ -26,6 +26,7 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 - **Postgres**
 
 ### 🎨 Front-end
+[![My Skills](https://skillicons.dev/icons?i=react,nestjs,html,css,js)](https://skillicons.dev)
 - **React.js**  
 - **Nest.js**  
 - **HTML5**
@@ -33,9 +34,12 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 - **JavaScript**
 
 ### ☁️ Cloud
-- **Azure**  
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+- **Azure**
+- **GCP**
 
 ### 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,)](https://skillicons.dev)
 - **Git & GitHub**  
 - **Docker**  
 - **Visual Studio Code**  
