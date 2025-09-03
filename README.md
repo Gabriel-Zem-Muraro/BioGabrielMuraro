@@ -48,11 +48,10 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 
 ---
 <p align="left">
-  <a href="https://www.linkedin.com/in/joao-pedro-bezerra-3a17a8303/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gabriel-zem-muraro-09432a270/">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-
 ---
 
 ## 📌 Metodologias
