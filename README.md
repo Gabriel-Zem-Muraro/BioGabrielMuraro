@@ -47,9 +47,10 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 - **DBeaver**
 
 ---
+### 💼 Linkedin
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-zem-muraro-09432a270/">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 ---
