@@ -47,6 +47,13 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 - **DBeaver**
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/joao-pedro-bezerra-3a17a8303/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 ## 📌 Metodologias
 - Experiência com **Kanban** para organização e acompanhamento de tarefas  
