@@ -53,7 +53,7 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
----
 
+---
 ## 📌 Metodologias
 - Experiência com **Kanban** para organização e acompanhamento de tarefas  
