@@ -19,9 +19,11 @@ Desde **agosto de 2025** atuo como **Estagiário de Desenvolvimento Full Stack n
 ## 🚀 Skills
 
 ### 🖥️ Back-end
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,mysql,postgres)](https://skillicons.dev)
 - **Node.js**  
 - **TypeScript**
 - **MySQL**
+- **Postgres**
 
 ### 🎨 Front-end
 - **React.js**  
